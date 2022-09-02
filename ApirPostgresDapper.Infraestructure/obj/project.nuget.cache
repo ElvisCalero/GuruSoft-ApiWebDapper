@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cxPr1mvfN52aeXQSfBVjAC6Gu4NQs9MljluvRTFIwz897BtrHiUzAHMXSy8hOHr7spggOu91H56NcxACrEEfvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\59399\\source\\repos\\ElvisCalero\\IntiSoluciones-ApiPostgresDapper\\ApirPostgresDapper.Infraestructure\\ApirPostgresDapper.Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\59399\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\59399\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\59399\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\59399\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\59399\\.nuget\\packages\\npgsql\\5.0.13\\npgsql.5.0.13.nupkg.sha512",
+    "C:\\Users\\59399\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

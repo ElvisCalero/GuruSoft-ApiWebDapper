@@ -1,0 +1,12 @@
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\bin\Debug\net5.0\ApiPostgresDapper.Domain.deps.json
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\bin\Debug\net5.0\ApiPostgresDapper.Domain.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\bin\Debug\net5.0\ref\ApiPostgresDapper.Domain.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\bin\Debug\net5.0\ApiPostgresDapper.Domain.pdb
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\obj\Debug\net5.0\ApiPostgresDapper.Domain.csproj.AssemblyReference.cache
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\obj\Debug\net5.0\ApiPostgresDapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\obj\Debug\net5.0\ApiPostgresDapper.Domain.AssemblyInfoInputs.cache
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\obj\Debug\net5.0\ApiPostgresDapper.Domain.AssemblyInfo.cs
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\obj\Debug\net5.0\ApiPostgresDapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\obj\Debug\net5.0\ApiPostgresDapper.Domain.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\obj\Debug\net5.0\ref\ApiPostgresDapper.Domain.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApiPostgresDapper.Domain\obj\Debug\net5.0\ApiPostgresDapper.Domain.pdb

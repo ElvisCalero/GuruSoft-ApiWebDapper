@@ -1,0 +1,15 @@
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\bin\Debug\net5.0\ApirPostgresDapper.Infraestructure.deps.json
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\bin\Debug\net5.0\ApirPostgresDapper.Infraestructure.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\bin\Debug\net5.0\ref\ApirPostgresDapper.Infraestructure.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\bin\Debug\net5.0\ApirPostgresDapper.Infraestructure.pdb
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\bin\Debug\net5.0\ApiPostgresDapper.Domain.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\bin\Debug\net5.0\ApiPostgresDapper.Domain.pdb
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ApirPostgresDapper.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ApirPostgresDapper.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ApirPostgresDapper.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ApirPostgresDapper.Infraestructure.AssemblyInfo.cs
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ApirPostgresDapper.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ApirPostgresDapper.Infraestructure.csproj.CopyComplete
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ApirPostgresDapper.Infraestructure.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ref\ApirPostgresDapper.Infraestructure.dll
+C:\Users\59399\Source\Repos\ElvisCalero\IntiSoluciones-ApiPostgresDapper\ApirPostgresDapper.Infraestructure\obj\Debug\net5.0\ApirPostgresDapper.Infraestructure.pdb
